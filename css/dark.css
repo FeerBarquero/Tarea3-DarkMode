@@ -1,0 +1,21 @@
+#light{
+    width: 20px;
+    font-size: 40px;
+    margin:auto;
+    
+}
+
+.dark{
+ background-color:darkslategray
+}
+
+.dark h1{
+    color: white;
+}
+
+.dark .descripcion{
+    color: whitesmoke;
+}
+.dark .light{
+color: azure;
+}
